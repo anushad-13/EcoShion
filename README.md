@@ -42,7 +42,9 @@ Since more than 50% of fast fashion clothes will be discarded within one year of
 
 # Project Links
 * Project Website: https://ecoshion.netlify.app/
-* Project Video: https://drive.google.com/file/d/1X8ypSDj853gVTvCaxZs0qYbgUL-iD20p/view?usp=drivesdk
+* Project Video: \
+             - https://drive.google.com/file/d/1X8ypSDj853gVTvCaxZs0qYbgUL-iD20p/view?usp=drivesdk \
+             - https://youtu.be/5P-QjX-Ge-w
 * Project Citations: \
             - https://unsplash.com/ \
             - https://www.netlify.com/
