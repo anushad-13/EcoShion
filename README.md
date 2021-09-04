@@ -7,7 +7,7 @@ Ecoshion is an innovative platform built with a great mission to educate the pop
 \
 Since more than 50% of fast fashion clothes will be discarded within one year of purchase, the vision of the project is to enable people to make choices encompassing ethical and sustainably produced products. **Through this platform, we share sustainable methods and set forth the scope of thrift shops and alternatives to fast fashion**.\
 \
-![alt text](img/github.jpg "Sustainable Fashion")\
+![alt text](img/github.jpg "Sustainable Fashion")
 
 ---
 # Tech Stack
