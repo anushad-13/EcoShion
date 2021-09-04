@@ -3,7 +3,7 @@
 > Fashion shouldn't cost the Earth
 
 \
-Ecoshion is an innovative platform bulit with a great mission to educate the populace about the dire effects of fast fashion by encouraging them to choose more sustainable forward brands.\
+Ecoshion is an innovative platform built with a great mission to educate the populace about the dire effects of fast fashion by encouraging them to choose more sustainable forward brands.\
 \
 Since more than 50% of fast fashion clothes will be discarded within one year of purchase, the vision of the project is to enable people to make choices encompassing ethical and sustainably produced products. **Through this platform, we share sustainable methods and set forth the scope of thrift shops and alternatives to fast fashion**.\
 \
