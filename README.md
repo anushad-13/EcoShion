@@ -5,9 +5,10 @@
 \
 Ecoshion is an innovative platform built with a great mission to educate the populace about the dire effects of fast fashion by encouraging them to choose more sustainable forward brands.\
 \
-Since more than 50% of fast fashion clothes will be discarded within one year of purchase, the vision of the project is to enable people to make choices encompassing ethical and sustainably produced products. **Through this platform, we share sustainable methods and set forth the scope of thrift shops and alternatives to fast fashion**.\
-\
-![alt text](img/github.jpg "Sustainable Fashion")
+Since more than 50% of fast fashion clothes will be discarded within one year of purchase, the vision of the project is to enable people to make choices encompassing ethical and sustainably produced products. **Through this platform, we share sustainable methods and set forth the scope of thrift shops and alternatives to fast fashion**.
+
+<!-- ![alt text](img/github.jpg "Sustainable Fashion")  -->
+<img src="img/github.jpg" width=60% height=60%>
 
 ---
 # Tech Stack
@@ -34,9 +35,12 @@ Since more than 50% of fast fashion clothes will be discarded within one year of
 ---
 
 # Screenshots
-![alt text](img/landing-page.png "Sustainable Fashion")\
-![alt text](img/Thriftstore-page.png "Sustainable Fashion")\
-![alt text](img/gallery-page.png "Sustainable Fashion")
+<!-- ![alt text](img/landing-page.png "Landing Page")\ -->
+<img src="img/landing-page.png" width=70% height=70%>
+<!-- ![alt text](img/Thriftstore-page.png "Thrift Store Page")\ -->
+<img src="img/Thriftstore-page.png" width=70% height=70%>
+<!-- ![alt text](img/gallery-page.png "Gallery Page") -->
+<img src="img/gallery-page.png" width=70% height=70%>
 
 ---
 
